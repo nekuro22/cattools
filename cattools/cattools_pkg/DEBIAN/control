@@ -1,0 +1,7 @@
+Package: cattools
+Version: 0.0.1
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Niklas Leidert <kontakt@niklas-leidert.de>
+Description: Ein einfaches Terminaltool in Python. Zeigt Version und einfache Befehle.
